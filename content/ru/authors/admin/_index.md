@@ -35,18 +35,19 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
 
-interests:
-  - ИИ
-  - Менеджмент
-  - Спортзал
+interests: 
+  - Искусственный интеллект
+  - Разработка игр
+  - Кибербезопасность
+  - Психология
 
 education:
   - area: Student
     institution: RUDN
     date_start: 2024-09-01
     date_end: 2028-05-31
-    summary: 
-      
+    summary: Изучаю компьютерные науки, интересуюсь программированием, искусственным интеллектом и разработкой программного обеспечения.
+
 work:
   - position: Student
     company_name: RUDN
@@ -54,44 +55,46 @@ work:
     company_logo: ''
     date_start: 2024-09-01
     date_end: ''
-    summary: 
+    summary: Осваиваю основы программирования, разрабатываю проекты по разработке ПО и анализу данных.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Хард скиллы
     items:
-      - name: Python
-        description: ''
-        percent: 60
+      - name: C++
+        description: Основы объектно-ориентированного программирования
+        percent: 70
         icon: code-bracket
-      - name: Переговоры
-        description: ''
-        percent: 80
+      - name: Разработка игр
+        description: Использую Unity для создания 2D и 3D игр
+        percent: 60
         icon: chart-bar
-      - name: DataScience
-        description: ''
-        percent: 40
+      - name: Искусственный интеллект
+        description: Основы машинного обучения и нейросетей
+        percent: 50
         icon: circle-stack
   - name: Хобби
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Прогулки
-        description: ''
-        percent: 75
-      - name: Спортзал
-        description: ''
-        percent: 100
-      - name: Языки
-        description: ''
+      - name: Чтение
+        description: Читаю книги по психологии, искусственному интеллекту и программированию
         percent: 80
+      - name: Программирование
+        description: Занимаюсь разработкой программного обеспечения и игр
+        percent: 95
+      - name: Путешествия
+        description: Люблю путешествовать и изучать новые культуры
+        percent: 65
 
 languages:
   - name: Русский
     percent: 100
   - name: Английский
-    percent: 60
+    percent: 75
+  - name: Испанский
+    percent: 50
 
 # Awards.
 #   Add/remove as many awards below as you like.
